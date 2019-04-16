@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300');
+
+.header1 {
+  font-size: 68px;
+  font-family: 'Source Code Pro', monospace;
+  color:#FFFF00;
+  text-align: center;
+}
+.pls {
+  font-size: 29px;
+  font-family: 'Source Code Pro', monospace;
+  color:#FF171A;
+  text-align: center;
+}
